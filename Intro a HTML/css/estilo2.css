@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+#contenedor {
+    display: grid;
+    background-color: blueviolet;
+    grid-template-columns: auto 500px auto;
+    grid-template-rows: 100px auto auto 100px ;
+    width: 100vw;
+    height: 100vh;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+#contenedor div{
+    background-color: red;
+    text-align: center;
+    color: white;
+    border: 2px dashed white;
+
+    

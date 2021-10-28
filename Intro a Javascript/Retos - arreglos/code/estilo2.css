@@ -1,0 +1,29 @@
+body {
+    background: #FF4E50;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F9D423, #FF4E50);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F9D423, #FF4E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+display: block;
+}
+
+
+
+
+.box{
+    background-color: seashell;
+    padding: 37px;
+    box-shadow: 0 0 6px rgba (255, 255, 255, 0.8);
+    border-radius: 10px;
+    width: 350px;
+  
+    
+    
+}
+
+button {
+    background: #FF4E50;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F9D423, #FF4E50);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F9D423, #FF4E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+color: white;
+border-color: white;
+
+}
